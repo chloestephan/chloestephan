@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chloé</h1>
 <h3 align="center">Last year student at Efrei Paris, majoring in Software Engineering.</h3>
-<h2 align="center">Fullstack developer 👩‍💻<h2>
+<h4 align="center">Fullstack developer 👩‍💻<h4>
 
 - 🔭 I’m currently working on [my End of Studies project](https://github.com/chloestephan/engineering-project)
 
