@@ -2,7 +2,7 @@
 <h3 align="center">Last year student at Efrei Paris, majoring in Software Engineering.</h3>
 <h4 align="center">Fullstack developer 👩‍💻<h4>
 
-- 🔭 I’m currently working on [my End of Studies project](https://github.com/chloestephan/engineering-project)
+- 🔭 I’m currently working as a Fullstack Software Engineer at BNP Paribas.
 
 - 👨‍💻 All of my projects are available at [https://github.com/chloestephan](https://github.com/chloestephan)
 
